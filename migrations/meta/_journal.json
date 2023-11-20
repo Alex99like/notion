@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1700516315078,
+      "tag": "0000_next_zaran",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1700518137202,
+      "tag": "0001_strong_thaddeus_ross",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1700521864188,
+      "tag": "0002_faulty_sentinels",
+      "breakpoints": true
+    }
+  ]
+}
